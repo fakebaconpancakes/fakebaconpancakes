@@ -6,7 +6,7 @@ I am a 3rd-year Data Science undergraduate at **Xiamen University Malaysia** foc
 
 ---
 
-### 🛠 Technical Toolkit
+### Technical Toolkit
 
 * **Languages:** Python (Data Science Stack), SQL, LaTeX
 * **AI/ML:** PyTorch, TensorFlow, Graph Convolutional Networks (GCN), Transformers
@@ -15,7 +15,7 @@ I am a 3rd-year Data Science undergraduate at **Xiamen University Malaysia** foc
 
 ---
 
-### 🔬 Ongoing Projects
+### Ongoing Projects
 
 #### **REAT: Resource Efficient Ante-Hoc Model (Ongoing)**
 * **Focus:** Human Action Recognition (HAR)
@@ -23,7 +23,7 @@ I am a 3rd-year Data Science undergraduate at **Xiamen University Malaysia** foc
 
 ---
 
-### 🎓 Leadership & Experience
+### Leadership & Experience
 
 * **Head of Design** | *XMUM Artificial Intelligence (MINDS) Club*
     * Leading creative direction and promotional strategies for university-wide AI initiatives.
