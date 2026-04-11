@@ -23,13 +23,4 @@ I am a 3rd-year Data Science undergraduate at **Xiamen University Malaysia** foc
 
 ---
 
-### Leadership & Experience
-
-* **Head of Design** | *XMUM Artificial Intelligence (MINDS) Club*
-    * Leading creative direction and promotional strategies for university-wide AI initiatives.
-* **Research & Development**
-    * Experienced in full-cycle project management, from hardware data collection (CSI/BFM) to academic reporting in IEEE standards.
-
----
-
 *“Building AI that doesn’t just work, but can explain why.”*
