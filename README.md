@@ -1,4 +1,4 @@
-# Hi there, I'm Abel Nathanael Hutapea 👋
+# Hi there, I'm Abel 👋
 
 ### Data Science Student | Explainable AI Researcher | Technical Designer
 
