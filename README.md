@@ -1,6 +1,6 @@
 # Hi there, I'm Abel 👋
 
-### Data Science Student | Explainable AI Researcher | Technical Designer
+### Data Science Student | Explainable AI Researcher | Graphic Design Hobbyist
 
 I am a 3rd-year Data Science undergraduate at **Xiamen University Malaysia** focused on making AI systems more transparent and resource-efficient. My work bridges the gap between complex deep learning architectures and real-world interpretability, specifically within the realm of **Human Activity Recognition (HAR)**.
 
