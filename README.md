@@ -1,4 +1,4 @@
-# Hi there, I'm Abel 👋
+# Hi there, I'm Belll 👋
 
 ### Data Science Student | Explainable AI Researcher | Graphic Design Hobbyist
 
