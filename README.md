@@ -1,8 +1,8 @@
 # Hi there, I'm Belll 👋
 
-### Data Science Student | Explainable AI Researcher | Graphic Design Hobbyist
+### Data Science Undergraduate Student | Seeking for Internship Opportunities
 
-I am a 3rd-year Data Science undergraduate at **Xiamen University Malaysia** focused on making AI systems more transparent and resource-efficient. My work bridges the gap between complex deep learning architectures and real-world interpretability, specifically within the realm of **Human Activity Recognition (HAR)**.
+I am a Final Year Data Science undergraduate at **Xiamen University Malaysia** focused on making AI systems more transparent and resource-efficient. My work bridges the gap between complex deep learning architectures and real-world interpretability, specifically within the realm of **Human Activity Recognition (HAR)**.
 
 ---
 
