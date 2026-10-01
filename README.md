@@ -53,9 +53,9 @@ I am a Data Science undergraduate at Xiamen University Malaysia with a strong in
 | Project | What I built | Focus |
 | --- | --- | --- |
 | **Lightweight Ante-Hoc Skeleton-Based Action Recognition** | A four-stream HAR pipeline using Spatial GCNs and Temporal Transformers, with an XAI diagnostic tool for 25 skeletal joints across 100 frames. | `Python` `PyTorch` `Docker` `W&B` |
-| **Instacart E-Commerce Analytics Dashboard** | A cloud-connected Streamlit dashboard querying a 32M+ row dataset with modular SQL, customer segmentation, and demand analysis. | `Python` `SQL` `DuckDB` `Streamlit` |
-| **Marketing A/B Testing & Funnel Analysis** | An interactive dashboard using non-parametric testing, 10,000-iteration bootstrapping, and a profit simulator to evaluate campaign performance. | `Python` `SciPy` `Plotly` |
-| **Volve Equipment Failure Prediction** | A machine learning project focused on predicting equipment failures and supporting proactive maintenance decisions. | `Python` `Machine Learning` `Predictive Maintenance` |
+| [**Instacart E-Commerce Analytics Dashboard**](https://github.com/fakebaconpancakes/instacart-sql-analysis) | A cloud-connected Streamlit dashboard querying a 32M+ row dataset with modular SQL, customer segmentation, and demand analysis. | `Python` `SQL` `DuckDB` `Streamlit` |
+| [**Marketing A/B Testing & Funnel Analysis**](https://github.com/fakebaconpancakes/ab_testing-experimentation) | An interactive dashboard using non-parametric testing, 10,000-iteration bootstrapping, and a profit simulator to evaluate campaign performance. | `Python` `SciPy` `Plotly` |
+| [**Volve Equipment Failure Prediction**](https://github.com/fakebaconpancakes/Volve_Equipment_Failure_Prediction)  | A machine learning project focused on predicting equipment failures and supporting proactive maintenance decisions. | `Python` `Machine Learning` `Predictive Maintenance` |
 
 <p align="center">
   <a href="https://data-science-portfolio-rho.vercel.app/">
