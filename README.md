@@ -25,7 +25,7 @@
 
 ## About Me
 
-I am a Data Science undergraduate at Xiamen University Malaysia with a strong interest in machine learning, deep learning, data analytics, and explainable AI. As an undergraduate research assistant, I have contributed to grant-funded human activity recognition research and co-authored a Q1 review paper. I enjoy building reliable, interpretable data products that connect rigorous analysis with real-world impact.
+I am a Data Science undergraduate at Xiamen University Malaysia with a strong interest in machine learning, deep learning, data analytics, and explainable AI. As an undergraduate research assistant, I have contributed to grant-funded human activity recognition research and co-authored a Q1 review paper. I enjoy building reliable, interpretable data products that connect rigorous analysis with real-world impact. **I am available for full-time internships: Feb 2027 onwards**. 
 
 <details>
   <summary><strong>More about my journey</strong></summary>
