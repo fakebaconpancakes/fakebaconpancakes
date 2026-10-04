@@ -75,7 +75,7 @@ I am a Data Science undergraduate at Xiamen University Malaysia with a strong in
   - Executed 150 controlled data-collection sessions across three propagation environments.
   - Co-authored [*WiFi-Based Human Activity Recognition and Fall Detection with Taxonomy, Benchmarks, and Future Directions: A Narrative Review*](https://ojs.bonviewpress.com/index.php/AIA/article/view/7517).
 
-  **Head of Design · XMUM Artificial Intelligence Club (MINDS)**
+  **Head of Design & Head of Public Relations · XMUM Artificial Intelligence Club (MINDS)**
 
   - Directed visual identity and media collateral for the club's inaugural hackathon.
   - Supported workshops with Huawei and Celcom through coordinated design-team delivery.
