@@ -73,7 +73,6 @@ I am a Data Science undergraduate at Xiamen University Malaysia with a strong in
   **Undergraduate Research Assistant · Xiamen University Malaysia**
 
   - Executed 150 controlled data-collection sessions across three propagation environments.
-  - Built Python-based baseline analysis workflows for grant-funded deep learning research.
   - Co-authored [*WiFi-Based Human Activity Recognition and Fall Detection with Taxonomy, Benchmarks, and Future Directions: A Narrative Review*](https://ojs.bonviewpress.com/index.php/AIA/article/view/7517).
 
   **Head of Design · XMUM Artificial Intelligence Club (MINDS)**
